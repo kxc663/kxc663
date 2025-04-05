@@ -8,7 +8,7 @@ Sunnyvale, CA
 **Carnegie Mellon University, CA**  
 _Master of Science in Software Engineering_  
 Aug 2023 - Dec 2024
-_GPA: 3.85/4.0_
+_GPA: 3.88/4.0_
 
 **Case Western Reserve University, OH**  
 _Bachelor of Science in Computer Science / Minor in Computer Game Design_  
@@ -21,13 +21,17 @@ _Coursework: Algorithms, Object-oriented programming, Full-stack development, Da
 * Developer Tools: Git, Vue.js, Node.js, Express.js, jQuery, MongoDB, AWS EC2/S3/RDS/Lambda, Webpack, Linux
 
 ## 🌱 Work Experience
+**InterSystems** _(Boston, MA)
+_Software Engineer_
+Feb 2025 - Current
+Technologies: TypeScript, Angular, ObjectScript
 
 **Rocket Mortgage (Amrock LLC.) ** _(Detroit, MI)
 _Software Engineer Intern_
 May 2024 - Aug 2024
 Technologies: C#, .Net, TypeScript, Angular, AWS RDS, S3, Kubernetes
 
-**Alphabet Inc.** _(Remote)_  
+**Google** _(Remote)_  
 _Front-end Development Intern_  
 Aug 2023 - Dec 2023
 Technologies: Node.js, TypeScript, Vue.js, Vuetify
