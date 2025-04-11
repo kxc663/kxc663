@@ -26,7 +26,7 @@ _Software Engineer_
 Feb 2025 - Current
 Technologies: TypeScript, Angular, ObjectScript
 
-**Rocket Mortgage (Amrock LLC.) ** _(Detroit, MI)
+**Rocket Mortgage (Amrock LLC.)** _(Detroit, MI)
 _Software Engineer Intern_
 May 2024 - Aug 2024
 Technologies: C#, .Net, TypeScript, Angular, AWS RDS, S3, Kubernetes
