@@ -21,12 +21,12 @@ _Coursework: Algorithms, Object-oriented programming, Full-stack development, Da
 * Developer Tools: Git, Vue.js, Node.js, Express.js, jQuery, MongoDB, AWS EC2/S3/RDS/Lambda, Webpack, Linux
 
 ## 🌱 Work Experience
-**InterSystems** _(Boston, MA)
+**InterSystems** _(Boston, MA)_
 _Software Engineer_
 Feb 2025 - Current
 Technologies: TypeScript, Angular, ObjectScript
 
-**Rocket Mortgage (Amrock LLC.)** _(Detroit, MI)
+**Rocket Mortgage (Amrock LLC.)** _(Detroit, MI)_
 _Software Engineer Intern_
 May 2024 - Aug 2024
 Technologies: C#, .Net, TypeScript, Angular, AWS RDS, S3, Kubernetes
