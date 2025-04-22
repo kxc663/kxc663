@@ -24,7 +24,7 @@ _Coursework: Algorithms, Object-oriented programming, Full-stack development, Da
 **InterSystems** _(Boston, MA)_
 _Software Engineer_
 Feb 2025 - Current
-Technologies: TypeScript, Angular, ObjectScript
+Technologies: TypeScript, Angular, ObjectScript, Kubernetes
 
 **Rocket Mortgage (Amrock LLC.)** _(Detroit, MI)_
 _Software Engineer Intern_
