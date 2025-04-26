@@ -1,7 +1,7 @@
 # Hello, I'm Kaitao Chen! 👋
 
 ## 📍 Location
-Sunnyvale, CA
+Seattle, WA
 
 ## 📚 Education
 
