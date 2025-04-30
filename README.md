@@ -14,7 +14,7 @@ _GPA: 3.88/4.0_
 _Bachelor of Science in Computer Science / Minor in Computer Game Design_  
 Aug 2019 - May 2023  
 _GPA: 4.0/4.0_  
-_Coursework: Algorithms, Object-oriented programming, Full-stack development, Database design_
+_Coursework: Algorithms, Object-oriented programming, Full-stack development, Database design, Machine Learning_
 
 ## 🔧 Skills
 * Programming: Java, C#, TypeSciprt/JavaScript, C++, Python, HTML/CSS
