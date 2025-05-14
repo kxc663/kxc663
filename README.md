@@ -21,6 +21,9 @@ _Coursework: Algorithms, Object-oriented programming, Full-stack development, Da
 * Developer Tools: Git, Vue.js, Node.js, Express.js, jQuery, MongoDB, AWS EC2/S3/RDS/Lambda, Webpack, Linux
 
 ## 🌱 Work Experience
+***Google** _(Seattle, WA)_
+_Software Engineer_
+
 **InterSystems** _(Boston, MA)_  
 _Software Engineer_  
 Feb 2025 - Apr 2025  
