@@ -24,6 +24,7 @@ _Coursework: Algorithms, Object-oriented programming, Full-stack development, Da
 **Google** _(Seattle, WA)_
 _Software Engineer_
 May 2025 - Current
+Technologies:
 
 **InterSystems** _(Boston, MA)_  
 _Software Engineer_  
