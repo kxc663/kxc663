@@ -7,7 +7,7 @@ Seattle, WA
 
 **Carnegie Mellon University, CA**  
 _Master of Science in Software Engineering_  
-Aug 2023 - Dec 2024
+Aug 2023 - Dec 2024  
 _GPA: 3.88/4.0_
 
 **Case Western Reserve University, OH**  
